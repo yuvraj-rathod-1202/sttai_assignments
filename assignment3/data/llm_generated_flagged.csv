@@ -1,0 +1,141 @@
+review,llm_sentiment,predicted_sentiment
+The soundtrack alone is worth the price of admission. A truly unforgettable cinematic experience.,Positive,Negative
+I walked out halfway through. The dialogue was atrocious and the story made no sense.,Negative,Neutral
+"Overhyped and underwhelming. I expected so much more, but was ultimately let down.",Negative,Neutral
+A thought-provoking and emotionally resonant film that will stay with you long after the credits roll.,Positive,Neutral
+A charming and delightful film that is perfect for the whole family.,Positive,Neutral
+"The acting was superb, but the script was weak. It had potential, but ultimately failed to deliver.",Neutral,Negative
+"An instant classic! The direction, acting, and cinematography were all top-notch.",Positive,Neutral
+"Visually appealing, but lacking in substance. I found myself bored despite the pretty pictures.",Neutral,Negative
+A hilarious and heartwarming comedy that will leave you feeling good.,Positive,Neutral
+Visually stunning and emotionally resonant. This film will stay with you long after the credits roll.,Positive,Neutral
+A heartwarming and uplifting story that will leave you feeling inspired. A truly beautiful film.,Positive,Neutral
+"One of the best movies I've seen in years. The screenplay was brilliant, and the direction was top-notch.",Positive,Neutral
+A brilliant and thought-provoking film that explores complex themes with grace and intelligence.,Positive,Neutral
+"An instant classic! The acting, the story, the visuals – everything was perfect.",Positive,Neutral
+"The plot was convoluted and difficult to follow. The acting was subpar, and the special effects were laughable.",Negative,Neutral
+"The dialogue was clunky, the characters were underdeveloped, and the story was predictable. A major disappointment.",Negative,Neutral
+"A truly awful movie. The acting was wooden, the story was nonsensical, and the direction was amateurish.",Negative,Neutral
+A heartwarming tale with stunning visuals. I was captivated from beginning to end.,Positive,Neutral
+"An instant classic! The performances were stellar, and the story was incredibly moving.",Positive,Neutral
+Absolutely brilliant! A must-see for any film enthusiast.,Positive,Neutral
+A delightful film that will leave you smiling. The acting was superb and the story was heartwarming.,Positive,Neutral
+I couldn't connect with any of the characters and the ending was predictable. A disappointment.,Negative,Neutral
+A fun and exciting adventure that will appeal to audiences of all ages. A definite crowd-pleaser!,Positive,Neutral
+A powerful and thought-provoking film that will stay with you long after the credits roll.,Positive,Neutral
+The acting was wooden and the story was nonsensical. I regret watching it.,Negative,Neutral
+A truly moving and inspirational story. The performances were outstanding.,Positive,Neutral
+The plot was convoluted and the characters were underdeveloped. A major disappointment.,Negative,Neutral
+"One of the best movies I've seen in years! The performances were outstanding, and the story was deeply moving.",Positive,Neutral
+A thought-provoking film that will stay with you long after you've seen it.,Positive,Neutral
+"An amazing movie, the plot twists kept me guessing until the end.",Positive,Negative
+I walked out halfway through. It was just unbearable.,Negative,Neutral
+"I walked in with low expectations and was still disappointed. The script felt unfinished, and the pacing was all over the place.",Negative,Neutral
+"While the premise was interesting, the execution fell flat. The movie lacked depth and failed to explore its themes effectively.",Neutral,Positive
+"A heartwarming and uplifting story about the power of friendship and perseverance. The performances were genuine, and the message was inspiring.",Positive,Neutral
+"Surprisingly good! I wasn't expecting much, but I was pleasantly surprised by the clever writing and the charming performances. Definitely worth a watch.",Positive,Neutral
+"The movie tries to be profound, but it ultimately comes across as pretentious and confusing. The symbolism was heavy-handed, and the message was unclear.",Neutral,Negative
+"The movie had potential, but it was ultimately bogged down by its slow pace and its lack of focus. I found myself losing interest halfway through.",Neutral,Negative
+"An instant classic! The movie exceeded all expectations. The story was captivating, the acting was phenomenal, and the overall experience was unforgettable.",Positive,Neutral
+"I wanted to love this movie, but it just didn't click for me. The characters felt underdeveloped, and the plot was predictable. A missed opportunity.",Negative,Positive
+A truly enjoyable movie. The actors had great chemistry and the plot kept me guessing until the end.,Positive,Neutral
+"I loved this movie! It was funny, heartwarming, and just overall a great experience.",Positive,Neutral
+"This movie was amazing! The special effects were incredible, and the story was captivating.",Positive,Neutral
+"A breathtaking cinematic achievement! The acting, visuals, and story all coalesced into a truly unforgettable experience.",Positive,Neutral
+A must-see! This film is a powerful and moving story that will stay with you long after the credits roll.,Positive,Neutral
+The film exceeded all expectations. A fantastic and incredibly well-made movie.,Positive,Neutral
+"A truly exceptional film. The performances were outstanding, and the story was both thought-provoking and emotionally resonant.",Positive,Neutral
+An instant classic! This is a film that deserves all the praise it's receiving. The world-building is phenomenal.,Positive,Neutral
+"I regret watching this. The characters were unlikeable, and the story was dull and predictable.",Negative,Neutral
+"I couldn't wait for it to end. The pacing was terrible, and there was no emotional connection to the characters.",Negative,Positive
+"An absolute mess. Nothing made sense, and the special effects were laughable. A cinematic disaster.",Negative,Positive
+"The movie felt incomplete. The storyline had potential, but the execution was poorly done.",Negative,Neutral
+"A heartwarming story with stellar performances. I laughed, I cried, I loved it!",Positive,Neutral
+The plot was convoluted and the characters were underdeveloped. A major disappointment.,Negative,Neutral
+"An absolute masterpiece! The acting, the direction, the soundtrack - everything was perfect.",Positive,Negative
+"The special effects were impressive, but the script was a mess. I couldn't follow the story at all.",Negative,Neutral
+Predictable and boring. I've seen this story a million times before.,Negative,Neutral
+A thought-provoking and emotionally resonant film that will stay with you long after you've seen it.,Positive,Neutral
+"A powerful and moving story about love, loss, and redemption.",Positive,Neutral
+"It had potential, but ultimately fell flat. The execution was lacking.",Neutral,Negative
+"A surprisingly good film. I went in with low expectations, but I was pleasantly surprised.",Positive,Neutral
+"An absolute gem of a film! The direction, the score, everything was perfect.",Positive,Negative
+A truly unforgettable cinematic experience. The performances were outstanding.,Positive,Neutral
+"Original, inventive, and thoroughly entertaining. A must-see!",Positive,Neutral
+The chemistry between the leads was palpable. A heartwarming and engaging story.,Positive,Neutral
+I was captivated by the world-building and the intricate plot. Brilliant!,Positive,Negative
+One of the best movies I've seen all year. A true work of art.,Positive,Neutral
+The plot was convoluted and difficult to follow. I left the theater confused and disappointed.,Negative,Neutral
+I found myself constantly checking my watch. The pacing was incredibly slow.,Negative,Positive
+"The special effects were laughably bad, and the story made no sense.",Negative,Positive
+A predictable and uninspired film. Nothing new or exciting to offer.,Negative,Neutral
+I couldn't connect with any of the characters. The story felt hollow and empty.,Negative,Neutral
+"It had potential, but ultimately fell flat. Some parts were good, others not so much.",Neutral,Negative
+"A heartwarming tale with stunning visuals, 'Celestial Echoes' is a must-see!",Positive,Neutral
+'Galactic Explorers' is a thrilling space adventure that will keep you on the edge of your seat.,Positive,Neutral
+The humor in 'Laugh Riot' felt forced and often fell flat. A real letdown.,Negative,Positive
+"'Eternal Flame' is a cinematic masterpiece! The story, the acting, everything was perfect.",Positive,Neutral
+'The Alchemist's Secret' is a visually stunning and intellectually stimulating film.,Positive,Neutral
+"A surprisingly enjoyable film, 'Unexpected Journey' is a fun ride for the whole family.",Positive,Neutral
+'Diamond Heist' is a clever and suspenseful thriller that will keep you guessing until the end.,Positive,Neutral
+'Midnight Bloom' is a beautiful and moving story that will stay with you long after the credits roll.,Positive,Neutral
+The special effects in 'Abyssal Depths' were atrocious. I couldn't finish watching it.,Negative,Positive
+Absolutely dreadful! The script for 'Cosmic Collision' was an unmitigated disaster.,Negative,Neutral
+'Echoes of War' is a powerful and thought-provoking film about the human cost of conflict.,Positive,Neutral
+"I regret watching 'Zombie Apocalypse'. The acting was terrible, and the plot made no sense.",Negative,Neutral
+'Project Genesis' is a groundbreaking science fiction film with incredible world-building.,Positive,Neutral
+"An absolutely stunning film! The performances were captivating, and the story was beautifully told.",Positive,Neutral
+A heartwarming and unforgettable experience. I highly recommend it!,Positive,Neutral
+A charming and delightful film that will leave you smiling.,Positive,Neutral
+"It had potential, but it ultimately fell flat. The pacing was off, and the characters were underdeveloped.",Neutral,Negative
+"I couldn't connect with the characters, and the story felt disjointed. A disappointment.",Negative,Neutral
+"The cinematography was breathtaking, and the soundtrack was perfect. A truly immersive experience.",Positive,Negative
+A surprisingly funny and clever film. I laughed out loud several times.,Positive,Neutral
+The story was convoluted and confusing. I had no idea what was going on half the time.,Negative,Neutral
+A truly inspiring and uplifting film. I left the theater feeling hopeful.,Positive,Neutral
+"An instant classic! The acting, directing, and writing were all top-notch.",Positive,Neutral
+Absolutely stunning visuals and a gripping storyline. A must-see!,Positive,Negative
+A heartwarming story that will leave you feeling uplifted. Beautifully done.,Positive,Neutral
+The soundtrack alone is worth the price of admission. A truly immersive experience.,Positive,Negative
+This movie exceeded all my expectations. A brilliant piece of filmmaking.,Positive,Neutral
+A powerful and thought-provoking film that will stay with you long after the credits roll.,Positive,Neutral
+"The special effects are groundbreaking, and the action sequences are exhilarating.",Positive,Neutral
+The plot was convoluted and difficult to follow. I left the theater confused.,Negative,Neutral
+The story was predictable and lacked originality. Nothing new here.,Negative,Neutral
+Visually unappealing and narratively weak. A major disappointment.,Negative,Neutral
+"Despite a promising premise, the execution was subpar. I cannot recommend it.",Negative,Neutral
+A charming and heartwarming tale that will leave you feeling uplifted.,Positive,Neutral
+Predictable and uninspired. I've seen this story a thousand times before.,Negative,Neutral
+A surprisingly moving and thought-provoking film. I was deeply impressed.,Positive,Neutral
+"While not perfect, it's an enjoyable watch with some genuinely funny moments.",Positive,Neutral
+"The movie had potential, but the pacing was off and the ending was unsatisfying.",Neutral,Negative
+"An instant classic! The story is timeless, and the performances are iconic.",Positive,Neutral
+A truly remarkable film with stunning visuals and a compelling story. I was captivated from beginning to end.,Positive,Neutral
+A heartwarming and uplifting film that will leave you feeling inspired. The soundtrack is also fantastic.,Positive,Neutral
+"Visually stunning and emotionally resonant, this film is a must-see for any cinephile. The direction is top-notch.",Positive,Neutral
+"An instant classic! The performances were outstanding, and the script was brilliantly written.",Positive,Neutral
+A thought-provoking and deeply moving film that will stay with you long after the credits roll.,Positive,Neutral
+"The plot was convoluted and difficult to follow, and the characters were underdeveloped and unlikable.",Negative,Neutral
+"The acting was wooden, the dialogue was clichéd, and the special effects were laughably bad.",Negative,Neutral
+A poorly written and directed film with a nonsensical plot and a predictable ending.,Negative,Neutral
+"The pacing was slow and tedious, and the film dragged on for far too long. I couldn't wait for it to end.",Negative,Neutral
+"The premise had potential, but the execution was a disaster. A truly disappointing film.",Negative,Neutral
+"It had some interesting ideas, but the movie ultimately felt disjointed and unfocused.",Neutral,Positive
+"A heartwarming tale of friendship and perseverance. I laughed, I cried, and I left the theater feeling inspired.",Positive,Neutral
+"While the premise was interesting, the execution fell flat. It had potential, but ultimately disappointed.",Neutral,Negative
+"An absolute masterpiece! The direction, acting, and score were all phenomenal.",Positive,Neutral
+"The action sequences were exhilarating, and the special effects were seamless. A definite must-see!",Positive,Neutral
+A charming and whimsical film that will appeal to audiences of all ages.,Positive,Neutral
+I was captivated from beginning to end. A brilliant and thought-provoking film.,Positive,Neutral
+"The acting was subpar, and the script was riddled with clichés. A major letdown.",Negative,Neutral
+A powerful and moving story that will stay with you long after the credits roll.,Positive,Neutral
+"A captivating masterpiece! The acting was superb, and the story kept me on the edge of my seat.",Positive,Neutral
+Absolutely dreadful. The plot was convoluted and the characters were completely unmemorable.,Negative,Neutral
+"One of the best movies I've seen in years! The direction was flawless, and the soundtrack was amazing.",Positive,Negative
+A truly inspiring story that will stay with you long after the credits roll.,Positive,Neutral
+"I had high hopes for this movie, but it completely missed the mark. A total disappointment.",Negative,Positive
+A thought-provoking and insightful film that raises important questions about society.,Positive,Neutral
+An incredible movie that exceeded all my expectations. A must-see!,Positive,Neutral
+"It had potential, but ultimately fell flat. The execution was lacking.",Neutral,Negative
+A beautifully crafted film with stunning visuals and a powerful message.,Positive,Neutral
+"The story was engaging, and the characters were well-developed. I thoroughly enjoyed it.",Positive,Neutral

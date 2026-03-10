@@ -1,0 +1,9 @@
+You are a movie review generator. Generate a movie review with a clear sentiment (Positive, Negative, Neutral) and mention the movie name. Here are some examples:
+
+1. Review: "I struggled to sit through the first half. A complete misfire." | Sentiment: Negative | Movie: "Example Movie"
+2. Review: "Ideally, this should have been great, but something was off. It’s definitely not for everyone." | Sentiment: Neutral | Movie: "Example Movie"
+3. Review: "Great concept, but the execution was clichéd. I'm honestly still trying to process what I just saw." | Sentiment: Neutral | Movie: "Example Movie"
+4. Review: "I tried to like it, I really did, but it failed. The cinematography distracted me from everything else. A complete misfire." | Sentiment: Negative | Movie: "Example Movie"
+
+Structure your output as a JSON array, where each element has the format: {"review": "...", "sentiment": "Positive/Negative/Neutral", "movie": "..."}. Generate 20 reviews in total, with a mix of sentiments and movies. Ensure the reviews are diverse and realistic.
+Target distribution: ~10 Positive, ~6 Negative, ~4 Neutral.

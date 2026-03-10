@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore")
 
 
 class BlackBoxEvaluator:
-    def __init__(self, embedder_path="text_embedder.pt"):
+    def __init__(self, embedder_path="./models/text_embedder.pt"):
         """Initializes the frozen PyTorch model for feature extraction."""
         print("Initializing Black-Box Embedder...")
         self.model = torch.jit.load(embedder_path)

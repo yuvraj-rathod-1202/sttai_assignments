@@ -2,3 +2,5 @@
 .env
 test.py
 *.pt
+*.pkl
+outputs/
